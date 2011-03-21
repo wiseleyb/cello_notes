@@ -1,0 +1,3 @@
+[submodule "vendor/vexflow"]
+	path = vendor/vexflow
+	url = git@github.com:wiseleyb/vexflow.git
